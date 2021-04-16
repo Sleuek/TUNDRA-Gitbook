@@ -1,0 +1,302 @@
+
+# Les différentes interfaces
+
+## Les interfaces
+
+{% hint style="info" %}
+Il existe 7 interfaces différentes permettant d'utiliser des modules comme présenté ci-après.
+{% endhint %}
+
+## Représentation
+### Vue de dessus
+<img src="./gitbook/images/GLOB-dessus_exterieur.png" width="300">
+### Vue de côté
+<img src="./gitbook/images/INTB-Faces.png" width="500">
+
+
+## Interface A 
+
+* INTERFACE A - Plaque carbone (2mm) pleine
+* INTERFACE A - Plaque carbone (2mm) avec deux INTERFACES B (inclus d'origine) 
+* INTERFACE A - Plaque carbone (2mm) avec ouverture pour TX2 et une INTERFACE B
+
+## Interface B 
+
+### COVERS
+* INTERFACE B - Plaque carbone 1,5mm (inclus d'origine)
+
+### GPS (PRINCIPAL - POSITION DROITE)
+#### INTERFACE B - Module Here 3 (HEX) + support + visserie + strobe vert 
+
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2" >Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-HERELINK.png" width="1000"></td>
+        <td>Module intégrant les fonctionnalités de récepteur radio, de transmetteur de données télémétriques. Ce module peut aussi transmettre à la station au sol un retour vidéo en HD. Possède 1 connecteur µ-HDMI, 1 interface USB, 1 JST pour liaison série, 1 JST pour la sortie des données radios</td>
+    </tr>
+</table>
+
+
+
+
+
+<table>
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Fonctionnement</th>
+    </tr><tr>
+        <td>Valim</td><td>7-12V</td>
+    </tr><tr>
+        <td>Consommation inst. de courant (max)</td><td>3A</td>
+    </tr>
+
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Mécanique</th>
+    </tr><tr>
+        <td>Dimensions</td><td>76 x 76 x 16,6 mm</td>
+    </tr><tr>
+        <td>Poids</td><td>48,8 grammes</td>
+    </tr><tr>
+        <td>Températures de fonctionnement</td><td>-40° à +85° C</td>
+    </tr>
+
+     <tr>
+        <th colspan="2" style=" text-align: left;">GNSS</th>
+    </tr><tr>
+        <td>Constellations captées</td><td>GPS L1C/A, GLONASS L1OF, BeiDou B1l </td>
+    </tr><tr>
+        <td>Processeur</td><td>STM32F302</td>
+    </tr><tr>
+        <td>Précision</td><td>3D FIX : 2,5 m / RTK : 0,025 m</td>
+    </tr><tr>
+        <td>Fréquence d'actualisation</td><td>Max : 8 Hz</td>
+    </tr><tr>
+        <td>Récepteur GPS</td><td>u-blox M8 module GNSS haute précision (M8P)</td>
+    </tr><tr>
+        <td>IMU</td><td>ICM20948</td>
+    </tr>
+
+
+</table>
+
+
+
+#### INTERFACE B - Module GNSS multi-bandes SGPSL12 + support (SHIELD Robotics)
+
+
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2" >Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-SGPSL12.png" width="1000"></td>
+        <td>GNSS conçu en France. En navigation, capable de capter le signal de plus de trente satellites.
+            Possibilité de suivre les signaux des constellations GPS, Galileo, Glonass, BeiDou, QZSS. 
+            Résistance accrue aux interférences électromagnétiques, augmentant la précision du GPS.</td>
+    </tr>
+</table>
+
+
+<table>
+
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Mécanique</th>
+    </tr><tr>
+        <td>Dimensions</td><td>60 x 60 x 25 mm</td>
+    </tr><tr>
+        <td>Poids</td><td>70 grammes</td>
+    </tr><tr>
+        <td>Températures de fonctionnement</td><td>-40° à +85° C</td>
+    </tr><tr>
+        <td>LED externe</td><td>Oui, 1</td>
+    </tr>
+
+
+     <tr>
+        <th colspan="2" style=" text-align: left;">GNSS</th>
+    </tr><tr>
+        <td>Constellations captées</td><td>GPS/QZSS GLONASS BeiDou, Galileo</td>
+    </tr><tr>
+        <td>Bandes GNSS</td><td>L2 / L1 / E5b / B1 / B2</td>
+    </tr><tr>
+        <td>Précision</td><td>bonne conditions : 50 cm | conditions agitées : < 200 cm </td>
+    </tr><tr>
+        <td>Fréquence d'actualisation</td><td>20 Hz GNSS</td>
+    </tr><tr>
+        <td>Récepteur GPS</td><td>SGPSL12</td>
+    </tr><tr>
+        <td>IMU</td><td>ICM20948</td>
+    </tr>
+
+</table>
+
+
+
+
+
+
+### SUIVI DE TERRAIN
+#### INTERFACE B - Module pour Lidar LW20/C (100m) - LIGHTWARE 
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2">Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-LW20C(100m).jpeg" width="1200"></td>
+        <td>Pour le suivi de terrrain, l'altimètre laser Lidar LW20/C transmet les premiers et derniers signaux pour permettre de distinguer le sommet de la végétation et le niveau du sol simultanément. En ajoutant un petit servo digital, le LW20/C peut être converti en un petit LiDAR capable d'enregistrer 388 points à la seconde lors du scan d'une zone. Idéal pour l'anti-collision et la navigation, le LW20/C peut autant communiquer les données en continu que permettre la prise de décision automatique basée sur des alarmes prédéfinies.</td>
+    </tr>
+</table>
+
+
+
+
+
+<table>
+    <tr>
+        <th colspan="2" style=" text-align: center;" >Spécification</th>
+    </tr> <tr>
+        <th colspan="2" style=" text-align: left;">Fonctionnement</th>
+    </tr><tr>
+        <td>Valim</td><td>5V ± 0,5V DC</td>
+    </tr><tr>
+        <td>Ampérage</td><td>130 mA</td>
+    </tr><tr>
+        <td>Puissance laser</td><td> < 2 mW</td>
+    </tr><tr>
+        <td>Sorties et interfaces </td><td>Série et I2C => 3.3V</td>
+    </tr>
+
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Mécanique</th>
+    </tr><tr>
+        <td>Dimensions</td><td>19,5 x 30,2 x 35 mm</td>
+    </tr><tr>
+        <td>Poids</td><td>20 g (sans câbles)</td>
+    </tr><tr>
+        <td>Températures de fonctionnement</td><td>-30 à +40°C</td>
+    </tr><tr>
+        <td>Lentille</td><td>Verre</td>
+    </tr><tr>
+        <td>Connectique</td><td>Câble à 5 branches et blindage</td>
+    </tr><tr>
+        <td>Protection</td><td>IP67</td>
+    </tr>
+
+
+     <tr>
+        <th colspan="2" style=" text-align: left;">LIDAR</th>
+    </tr><tr>
+        <td>Portée</td><td>0,2 - 100 m</td>
+    </tr><tr>
+        <td>Résolution</td><td>1 cm</td>
+    </tr><tr>
+        <td>Lectures</td><td>48 - 388 par secondes</td>
+    </tr><tr>
+        <td>Précision</td><td>± 0,01 m</td>
+    </tr><tr>
+        <td>Optique</td><td>28 x 15 mm</td>
+    </tr><tr>
+        <td>Divergence faisceau</td><td>0,3°</td>
+    </tr>
+</table>
+
+
+
+
+#### INTERFACE B - Module pour Lidar SF30/F (200m) - LIGHTWARE
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2">Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-SF30F(200m).jpeg" width="1200"></td>
+        <td>L'altimètre LiDAR SF30/D dispose d'une portée de 200 mètres pour un poids de seulement 35 grammes. Conçu pour les drones de petites tailles et les véhicules autonomes, cet altimètre laser LiDAR sera idéal pour toutes les applications de type reconnaissance de terrain et évitement d'obstacles. </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="2" style=" text-align: center;" >Spécification</th>
+    </tr> <tr>
+        <th colspan="2" style=" text-align: left;">Fonctionnement</th>
+    </tr><tr>
+        <td>Sorties et interfaces </td><td>Sorties et interfaces </td>
+    </tr>
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Mécanique</th>
+    </tr><tr>
+        <td>Dimensions</td><td>30 x 56,5 x 50 mm</td>
+    </tr><tr>
+        <td>Poids</td><td>35 g</td>
+    </tr><tr>
+        <td>Protection</td><td>Ouvert, pas d'IP</td>
+    </tr>
+
+     <tr>
+        <th colspan="2" style=" text-align: left;">LIDAR</th>
+    </tr><tr>
+        <td>Portée</td><td>0,2 - 200 m</td>
+    </tr><tr>
+        <td>Intégration</td><td>API utilisateur, LightWare Studio</td>
+    </tr><tr>
+        <td>Sécurité</td><td>Emission laser sans danger pour els yeux, classe 1M</td>
+    </tr>
+
+
+</table>
+
+
+
+
+
+### TELEMETRIE
+* INTERFACE B - Module de télémétrie RFD868x (RFDESIGN) 
+* INTERFACE B - Kit Télémétrie RFD900x (RFDESIGN)
+
+### IDENTIFICATION
+* INTERFACE B - Module balise d'identification WIFI (DRONAVIA)
+
+### SECOURS
+* Pack parachute GALAXY GRS 10-150
+    * Parachute GALAXY GRS (10-150) + fixation en aluminium 6061
+    * INTERFACE B - Module avec buzzer 110db + interrupteur mécanique
+* Module de coupure moteurs PWM - Galaxy GRS 
+* Training pyro-actuator - GALAXY GRS
+* Toile optionnelle plus performante et plus légère
+
+
+## Interface C
+
+* INTERFACE C - Plaque carbone 1,5mm (inclus d'origine)
+* INTERFACE C - Module avec connecteur XT30 femelle
+* INTERFACE C - Module avec câbles 10AWG + XT90 (à souder)
+* INTERFACE C - Modules pour antennes HERELINK (gauche et droite)
+* INTERFACE C - Module avec USB FISCHER CONNECTORS (livré avec cordon USB)
+
+## Interface D
+
+* INTERFACE D - Plaque carbone 1,5mm (inclus d'origine)
+* INTERFACE D - Avec connecteurs JST + cache en PA12
+* INTERFACE D - Avec connecteurs JST et passage nappe HDMI + cache en PA12
+
+## Interface E
+
+* INTERFACE E - Support en carbone (1mm) pour module AIR HERELINK
+
+## Interface F
+
+* INTERFACE F - Interfaces de fixation en PA12 pour fixation du TX2 sur la tranche
+* INTERFACE F - Support en carbone (2mm) pour Carrier board standard CUBE 2.1
+
+
+
