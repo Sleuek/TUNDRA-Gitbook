@@ -30,10 +30,13 @@ paragraph
 code_block1
 code_block2
 ```
-
+<span style="color:blue">
+    
 > quote1
 >
 > quote2
+
+</span>
 
 | Title1 | Title2 |
 | :--- | :--- |
@@ -58,7 +61,9 @@ warning
 
 
 $$
+
 Math = equation * ar^e / f(u_n)
+
 $$
 
 

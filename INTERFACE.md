@@ -16,9 +16,9 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 ## Interface A 
 
-* INTERFACE A - Plaque carbone (2mm) pleine
-* INTERFACE A - Plaque carbone (2mm) avec deux INTERFACES B (inclus d'origine) 
-* INTERFACE A - Plaque carbone (2mm) avec ouverture pour TX2 et une INTERFACE B
+* INTERFACE A - <font color='red'>Plaque carbone (2mm) pleine</span>
+* INTERFACE A - <font color='red'>Plaque carbone (2mm) avec deux INTERFACES B (inclus d'origine) </span>
+* INTERFACE A - <font color='red'>Plaque carbone (2mm) avec ouverture pour TX2 et une INTERFACE B</span>
 
 ## Interface B 
 
@@ -277,7 +277,7 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 ## Interface C
 
-* INTERFACE C - Plaque carbone 1,5mm (inclus d'origine)
+* INTERFACE C - <font color='red'>Plaque carbone 1,5mm (inclus d'origine)</font>
 * INTERFACE C - Module avec connecteur XT30 femelle
 * INTERFACE C - Module avec câbles 10AWG + XT90 (à souder)
 * INTERFACE C - Modules pour antennes HERELINK (gauche et droite)
@@ -285,18 +285,18 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 ## Interface D
 
-* INTERFACE D - Plaque carbone 1,5mm (inclus d'origine)
-* INTERFACE D - Avec connecteurs JST + cache en PA12
-* INTERFACE D - Avec connecteurs JST et passage nappe HDMI + cache en PA12
+* INTERFACE D - <font color='red'>Plaque carbone 1,5mm (inclus d'origine)</font>
+* INTERFACE D - <font color='red'>Avec connecteurs JST + cache en PA12</font>
+* INTERFACE D - <font color='red'>Avec connecteurs JST et passage nappe HDMI + cache en PA12</font>
 
 ## Interface E
 
-* INTERFACE E - Support en carbone (1mm) pour module AIR HERELINK
+* INTERFACE E - <font color='red'>Support en carbone (1mm) pour module AIR HERELINK</font>
 
 ## Interface F
 
-* INTERFACE F - Interfaces de fixation en PA12 pour fixation du TX2 sur la tranche
-* INTERFACE F - Support en carbone (2mm) pour Carrier board standard CUBE 2.1
+* INTERFACE F - <font color='red'>Interfaces de fixation en PA12 pour fixation du TX2 sur la tranche</font>
+* INTERFACE F - <font color='red'>Support en carbone (2mm) pour Carrier board standard CUBE 2.1</font>
 
 
 
