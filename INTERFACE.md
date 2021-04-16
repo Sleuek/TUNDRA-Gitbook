@@ -16,9 +16,9 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 ## Interface A 
 
-* INTERFACE A - <font color='red'>Plaque carbone (2mm) pleine</span>
-* INTERFACE A - <font color='red'>Plaque carbone (2mm) avec deux INTERFACES B (inclus d'origine) </span>
-* INTERFACE A - <font color='red'>Plaque carbone (2mm) avec ouverture pour TX2 et une INTERFACE B</span>
+* INTERFACE A - <font color='red'>Plaque carbone (2mm) pleine</font>
+* INTERFACE A - <font color='red'>Plaque carbone (2mm) avec deux INTERFACES B (inclus d'origine) </font>
+* INTERFACE A - <font color='red'>Plaque carbone (2mm) avec ouverture pour TX2 et une INTERFACE B</font>
 
 ## Interface B 
 
@@ -260,11 +260,152 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 
 ### TELEMETRIE
-* INTERFACE B - Module de télémétrie RFD868x (RFDESIGN) 
-* INTERFACE B - Kit Télémétrie RFD900x (RFDESIGN)
+
+#### INTERFACE B - Module de télémétrie RFD868x (RFDESIGN) 
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2">Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-RFD868x.jpeg" width="1000"></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum mi eu libero pellentesque pellentesque a vitae sem. Donec velit leo, sollicitudin id porttitor et, posuere eu tortor. Praesent placerat tellus at est imperdiet egestas. Mauris efficitur sit amet quam id accumsan. Donec vehicula volutpat turpis tempus vulputate. Maecenas varius.</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="2" style=" text-align: center;" >Spécification</th>
+    </tr><tr>
+        <td>Frequency Range</td><td>868-869 MHz</td>
+    </tr><tr>
+        <td>Output Power</td><td>1W (+30dBm)</td>
+    </tr><tr>
+        <td>Air Data transfer rates</td><td>4, 8, 16, 19, 24, 32, 48, 64 (default), 96, 128, 192 and 250, 500 kbit/sec</td>
+    </tr><tr>
+        <td>UART data transfer rates</td><td>9600, 19200, 38400, 57600 (default), 115200, 400k, 921k baud</td>
+    </tr><tr>
+        <td>Output Power</td><td>1W (+30dBm)</td>
+    </tr><tr>
+        <td>Receive Sensitivity</td><td>>121 dBm at low data rates</td>
+    </tr><tr>
+        <td>Size</td><td>30 mm (wide) x 57 mm (long) x 12.8 mm (thick)</td>
+    </tr><tr>
+        <td>Weight</td><td>14.5g</td>
+    </tr><tr>
+        <td>Mounting</td><td> 3 x M2.5 screws, 3 x header pin solder points</td>
+    </tr><tr>
+        <td>Power Supply</td><td> +5 V nominal, (+3.5 V min, +5.5 V max), ~800 mA peak at maximum power</td>
+    </tr><tr>
+        <td>Temp. Range</td><td>Range: -40° to +85°</td>
+    </tr>
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Interfaces</th>
+    </tr><tr>
+        <td>RF</td><td>2 x RP-SMA connectors</td>
+    </tr><tr>
+        <td>Serial</td><td>Logic level TTL (+3.3v)</td>
+    </tr><tr>
+        <td>Power</td><td>+5v, ~800mA max peak (at maximum transmit power)</td>
+    </tr><tr>
+        <td>GPIO</td><td>6 General purpose IO (Digital, ADC, PWM capable)</td>
+    </tr>
+</table>
+
+
+#### INTERFACE B - Module de télémétrie RFD900x (RFDESIGN)
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2">Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-RFD900x.jpeg" width="1000"></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum mi eu libero pellentesque pellentesque a vitae sem. Donec velit leo, sollicitudin id porttitor et, posuere eu tortor. Praesent placerat tellus at est imperdiet egestas. Mauris efficitur sit amet quam id accumsan. Donec vehicula volutpat turpis tempus vulputate. Maecenas varius.</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th colspan="2" style=" text-align: center;" >Spécification</th>
+    </tr><tr>
+        <td>Frequency Range</td><td> 902 - 928 MHz (USA) / 915 - 928 MHz (Australia)</td>
+    </tr><tr>
+        <td>Output Power</td><td>1W (+30dBm)</td>
+    </tr><tr>
+        <td>Air Data transfer rates</td><td> 12, 56, 64 (default), 100, 125, 200, 224, 500 and 750 kbit/sec</td>
+    </tr><tr>
+        <td>UART data transfer rates</td><td>1200, 2400, 4800, 9600, 19200, 38400, 57600 (default), 115200, 230400, 460800, 1M baud</td>
+    </tr><tr>
+        <td>Output Power</td><td>1W (+30dBm)</td>
+    </tr><tr>
+        <td>Receive Sensitivity</td><td>>121 dBm at low data rates</td>
+    </tr><tr>
+        <td>Size</td><td>25 mm (wide) x 34 mm (long) x 10.4 mm (thick)</td>
+    </tr><tr>
+        <td>Weight</td><td>10g</td>
+    </tr><tr>
+        <td>Mounting</td><td> SMT Soldered</td>
+    </tr><tr>
+        <td>Power Supply</td><td> +5 V nominal, (+3.5 V min, +5.5 V max), ~800 mA peak at maximum power</td>
+    </tr><tr>
+        <td>Temp. Range</td><td>Range: -40° to +85°</td>
+    </tr>
+
+    <tr>
+        <th colspan="2" style=" text-align: left;">Interfaces</th>
+    </tr><tr>
+        <td>RF</td><td>2x u.FL RF connectors</td>
+    </tr><tr>
+        <td>Serial</td><td>Logic level TTL (+3.3v)</td>
+    </tr><tr>
+        <td>Power</td><td>+5v, ~800mA max peak (at maximum transmit power)</td>
+    </tr><tr>
+        <td>GPIO</td><td>General purpose IO (Digital, ADC, PWM capable)</td>
+    </tr>
+</table>
+
 
 ### IDENTIFICATION
-* INTERFACE B - Module balise d'identification WIFI (DRONAVIA)
+#### INTERFACE B - Module balise d'identification WIFI (DRONAVIA)
+
+<table style=" text-align: left;">
+    <tr>
+        <th colspan="2">Description</th>
+    </tr>
+    <tr>
+        <td><img src="./gitbook/images/INTB/INTB-IDENT.jpeg" width="1000"></td>
+        <td>Cette balise Zéphyr Beacon Light Pro V2 vous permet de mettre en conformité vos drones s'ils ne sont pas équipés d'un système pas défaut. Sa faible consommation de seulement 40 mA n'impactera pas l'autonomie de vos aéronefs.
+        L'antenne permet d'atteindre une portée de 3 km (en conditions optimales) et peux être déportée à l'extérieur du châssis. La balise doit être intégrée à l'intérieur du drone et alimentée par une source en 4,2 V à 8,4 V.  </td>
+    </tr>
+</table>
+
+<table>
+ <tr>
+        <th colspan="2" style=" text-align: left;">Spécification</th>
+    </tr><tr>
+        <td>Sorties et interfaces </td><td>Sorties et interfaces </td>
+    </tr><tr>
+        <td>Fréquence</td><td>2,4 GHz (2437 MHz)</td>
+    </tr><tr>
+        <td>Canal WIFI</td><td> 6</td>
+    </tr><tr>
+        <td>Antenne</td><td>externe</td>
+    </tr><tr>
+        <td>Portée</td><td>3 km</td>
+    </tr><tr>
+        <td>Consommation</td><td>40 mA (en moyenne)</td>
+    </tr><tr>
+        <td>Poids</td><td>23 g</td>
+    </tr><tr>
+        <td>Tension d'alimentation </td><td>4,2 à 8,4 V</td>
+    </tr><tr>
+        <td>Dimensions</td><td>30 x 21 x 13 mm + antenne</td>
+    </tr>
+</table>
+
+
 
 ### SECOURS
 * Pack parachute GALAXY GRS 10-150
