@@ -1,3 +1,9 @@
+# Introduction
+
+Le TUNDRA® est un aéronef multi-rotors sans pilote (drone) professionnel conçu à partir de réflexions engagées avec les utilisateurs professionnels de drones. Il répond à des attentes concrètes sur les aspects techniques, pratiques, design, sécuritaires et réglementaires. Modulable, multifonction, évolutif, le TUNDRA® est destiné à l'industrie, l’inspection, la recherche.
+Le document ci-dessous reprend les caractéristiques de la machine pour une meilleure compréhension de sa configuration.
+Vous devez toujours vous conformer à la réglementation en vigueur à l’endroit où vous souhaitez faire évoluer cet aéronef. Il appartient au télépilote de se conformer à l’ensemble de ces réglementations (formation, limitations, etc.)
+
 # Summary
 
 * [Introduction](README.md)
@@ -22,5 +28,3 @@
         * [Liste de composants disponibles](./MATTHIEU/Chassis_Tundra_vide.md#liste-de-composants-disponibles)
         * [Transport](./MATTHIEU/Chassis_Tundra_vide.md#transport)
 
-
-Ce document présente les différentes interfaces ainsi que les modules associés.
