@@ -4,6 +4,10 @@
 description: page_description
 ---
 
+
+
+
+
 # Initial page
 
 ## Title1
@@ -66,4 +70,88 @@ Math = equation * ar^e / f(u_n)
 
 $$
 
+<table>
+  <tbody>
+    <tr>
+      <th>First column</th>
+      <td>Second column</td>
+      <th>First column</th>
+      <td>Second column</td>
+    </tr>
+    <tr>
+      <th>First column</th>
+      <td>Second column</td>
+      <th>First column</th>
+      <td>Second column</td>
+    </tr>
+  </tbody>
+</table>
 
+
+<table>
+  <tbody>
+    <tr>
+      <th>First row</th>
+      <th>First row</th>
+      <th>First row</th>
+    </tr>
+    <tr style=" text-align: center;">
+      <td>Second row</td>
+      <td>Second row</td>
+      <td>Second row</td>
+    </tr>
+      <tr style=" text-align: right;">
+      <td>Second row</td>
+      <td>Second row</td>
+      <td>Second row</td>
+    </tr>
+    <tr>
+      <td>Second row</td>
+      <td>Second row</td>
+      <td>Second row</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <tbody>
+    <col width="50%" />
+    <col width="50%" />
+    <tr style="text-align: center;">
+      <td >
+      <b>Catalogue des modules intégrables dans le TUNDRA</b>
+      </td>
+      <td >
+      <b>Montage du Tundra RTD</b>
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td >
+      <a href="#">En savoir plus</a>
+      </td>
+      <td >
+      <a href="#">En savoir plus</a>
+      </td>
+    </tr>
+    <th colspan="2"></th>
+        <tr style="text-align: center;">
+      <td >
+      <b>Catalogue des modules intégrables dans le TUNDRA</b>
+      </td>
+      <td >
+      <b>Montage du Tundra RTD</b>
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td >
+      <a href="#">En savoir plus</a>
+      </td>
+      <td >
+      <a href="#">En savoir plus</a>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
