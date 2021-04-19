@@ -9,7 +9,7 @@ Le module GPS se place en position droite du drone.
         <th colspan="2" >Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-HERELINK.png" width="1000"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/GPS/GPS_HERE3.png" width="1000"></td>
         <td>Module intégrant les fonctionnalités de récepteur radio, de transmetteur de données télémétriques. Ce module peut aussi transmettre à la station au sol un retour vidéo en HD. Possède 1 connecteur µ-HDMI, 1 interface USB, 1 JST pour liaison série, 1 JST pour la sortie des données radios</td>
     </tr>
 </table>

@@ -10,7 +10,7 @@ Le module GPS se place en position droite du drone.
         <th colspan="2" >Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-SGPSL12.png" width="1000"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/GPS/GPS_SHIELD.png" width="1000"></td>
         <td>GNSS conçu en France. En navigation, capable de capter le signal de plus de trente satellites.
             Possibilité de suivre les signaux des constellations GPS, Galileo, Glonass, BeiDou, QZSS. 
             Résistance accrue aux interférences électromagnétiques, augmentant la précision du GPS.</td>

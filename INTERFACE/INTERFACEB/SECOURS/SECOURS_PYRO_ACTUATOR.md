@@ -5,7 +5,7 @@
         <th colspan="2">Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-ACTUATOR.jpeg" width="500"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/SECOURS/SECOURS_PYRO_ACTUATOR.jpeg" width="500"></td>
         <td>Module electrique vous permettant de simuler la charge pyrotechnique afin de valider simplement votre installation. C'est un achat vivement conseillé.</td>
     </tr>
 </table>

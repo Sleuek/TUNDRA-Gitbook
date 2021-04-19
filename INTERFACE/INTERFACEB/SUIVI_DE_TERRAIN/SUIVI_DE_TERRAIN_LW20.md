@@ -5,7 +5,7 @@
         <th colspan="2">Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-LW20C(100m).jpeg" width="1200"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/SUIVI_DE_TERRAIN/SUIVI_DE_TERRAIN_LW20.jpeg" width="1200"></td>
         <td>Pour le suivi de terrrain, l'altimètre laser Lidar LW20/C transmet les premiers et derniers signaux pour permettre de distinguer le sommet de la végétation et le niveau du sol simultanément. En ajoutant un petit servo digital, le LW20/C peut être converti en un petit LiDAR capable d'enregistrer 388 points à la seconde lors du scan d'une zone. Idéal pour l'anti-collision et la navigation, le LW20/C peut autant communiquer les données en continu que permettre la prise de décision automatique basée sur des alarmes prédéfinies.</td>
     </tr>
 </table>

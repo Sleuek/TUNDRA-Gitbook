@@ -5,7 +5,7 @@
         <th colspan="2">Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-IDENT.jpeg" width="1000"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/IDENTIFICATION/IDENTIFICATION_BALISE_DRONAVIA.jpeg" width="1000"></td>
         <td>Cette balise Zéphyr Beacon Light Pro V2 vous permet de mettre en conformité vos drones s'ils ne sont pas équipés d'un système pas défaut. Sa faible consommation de seulement 40 mA n'impactera pas l'autonomie de vos aéronefs.
         L'antenne permet d'atteindre une portée de 3 km (en conditions optimales) et peux être déportée à l'extérieur du châssis. La balise doit être intégrée à l'intérieur du drone et alimentée par une source en 4,2 V à 8,4 V.  </td>
     </tr>

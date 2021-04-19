@@ -9,7 +9,7 @@
         <th colspan="2">Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-PARACHUTE.jpeg" width="1000"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/SECOURS/SECOURS_PARACHUTE.jpeg" width="1000"></td>
         <td>La version GALAXY GBS 10/150 est un pack composé d'un parachute à extraction pyrotechnique offrant une solution de secours efficace même à faible hauteur du fait de son temps d'ouverture très rapide (moins d'une seconde) ainsi que d'un coupe circuit (en option) qui coupera les moteurs automatiquement en cas de déclenchement (en version EXTENDED, possible d'y ajouter en option un buzzer). C'est le pack idéal pour faire homologuer votre drone en S3 (type S900 DJI) en moins de 8kg. 
         Compatible avec tous les contrôleurs de vol et récepteurs radio (en PWM).  </td>
     </tr>
@@ -39,6 +39,6 @@
     </tr>
 </table>
 
-<img src="../gitbook/images/INTB/INTB-PARACHUTECOURBE.jpeg" width="1000">
+<img src="../../../gitbook/images/INTERFACE/INTERFACEB/SECOURS/SECOURS_PARACHUTE_COURBE.jpeg" width="1000">
 
 

@@ -5,7 +5,7 @@
         <th colspan="2">Description</th>
     </tr>
     <tr>
-        <td><img src="../gitbook/images/INTB/INTB-CUTTER.jpeg" width="1000"></td>
+        <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/SECOURS/SECOURS_COUPURE_MOTEURS.jpeg" width="1000"></td>
         <td>L’Engine Cutter de Galaxy GRS est un module de coupure des moteurs prévu pour optimiser le déploiement du parachute de secours. Les moteurs seront ainsi automatiquement coupés lors du déclenchement du parachute.</td>
     </tr>
 </table>
