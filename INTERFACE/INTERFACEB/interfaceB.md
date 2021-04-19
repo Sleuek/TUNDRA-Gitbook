@@ -1,5 +1,9 @@
 ## Interface B 
 
+{% hint style="danger" %}
+Page content will be removed
+{% endhint %}
+
 ### COVERS
 * INTERFACE B - Plaque carbone 1,5mm (inclus d'origine)
 
