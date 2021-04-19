@@ -38,6 +38,7 @@
     * [Volume interne](./MATTHIEU/Chassis_Tundra_Vide.md#volume-interne)
     * [Liste de composants disponibles](./MATTHIEU/Chassis_Tundra_Vide.md#liste-de-composants-disponibles)
     * [Transport](./MATTHIEU/Chassis_Tundra_Vide.md#transport)
+    * [Bras](./MATTHIEU/Chassis_Tundra_Vide.md#bras)
 * [Configuration approuvée par Hexadrone](./MATTHIEU/Configuration_Approuvée_HxD.md)
     * [Présentation configuration](./MATTHIEU/Configuration_Approuvée_HxD.md#presentation-configuration)
     * [Liste des composants](./MATTHIEU/Configuration_Approuvée_HxD.md#liste-des-composants)

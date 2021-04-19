@@ -1,6 +1,6 @@
 #### INTERFACE B - Suivi de terrain - Module pour Lidar SF30/F (200m) - LIGHTWARE
 
-<table style=" text-align: left;">
+<table class="description" style=" text-align: left;">
     <tr>
         <th colspan="2">Description</th>
     </tr>
@@ -10,7 +10,7 @@
     </tr>
 </table>
 
-<table>
+<table class="specification">
     <tr>
         <th colspan="2" style=" text-align: center;" >Spécification</th>
     </tr> <tr>

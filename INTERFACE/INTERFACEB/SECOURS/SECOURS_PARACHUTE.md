@@ -4,7 +4,7 @@
 * INTERFACE B - Module avec buzzer 110db + interrupteur mécanique
 
 
-<table style=" text-align: left;">
+<table class="description" style=" text-align: left;">
     <tr>
         <th colspan="2">Description</th>
     </tr>
@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-<table>
+<table class="specification">
  <tr>
         <th colspan="2" style=" text-align: left;">Spécification</th>
     </tr><tr>

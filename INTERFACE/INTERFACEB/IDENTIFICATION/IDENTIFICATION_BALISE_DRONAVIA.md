@@ -1,6 +1,6 @@
 #### INTERFACE B - Identification - Module balise d'identification WIFI (DRONAVIA)
 
-<table style=" text-align: left;">
+<table class="description" style=" text-align: left;">
     <tr>
         <th colspan="2">Description</th>
     </tr>
@@ -11,7 +11,7 @@
     </tr>
 </table>
 
-<table>
+<table class="specification">
  <tr>
         <th colspan="2" style=" text-align: left;">Spécification</th>
     </tr><tr>

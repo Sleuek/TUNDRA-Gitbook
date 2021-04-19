@@ -4,7 +4,7 @@
 Le module GPS se place en position droite du drone.
 {% endhint %}
 
-<table style=" text-align: left;">
+<table class="description" style=" text-align: left;">
     <tr>
         <th colspan="2" >Description</th>
     </tr>
@@ -18,7 +18,7 @@ Le module GPS se place en position droite du drone.
 
 
 
-<table>
+<table class="specification">
 
     <tr>
         <th colspan="2" style=" text-align: left;">Fonctionnement</th>

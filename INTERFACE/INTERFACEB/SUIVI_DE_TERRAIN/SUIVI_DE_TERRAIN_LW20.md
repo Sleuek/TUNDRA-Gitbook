@@ -1,6 +1,6 @@
 #### INTERFACE B - Suivi de terrain - Module pour Lidar LW20/C (100m) - LIGHTWARE 
 
-<table style=" text-align: left;">
+<table class="description" style=" text-align: left;">
     <tr>
         <th colspan="2">Description</th>
     </tr>
@@ -14,7 +14,7 @@
 
 
 
-<table>
+<table class="specification">
     <tr>
         <th colspan="2" style=" text-align: center;" >Spécification</th>
     </tr> <tr>

@@ -27,3 +27,8 @@
 ### Transport
 
 * Valise en option ?
+
+### Bras
+
+* Configuration 1 : Urbain
+* Configuration 2 : Endurance

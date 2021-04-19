@@ -289,3 +289,46 @@
   background: #252737;
   font-weight: 600;
 }
+
+
+table {
+  width: 100%;
+}
+
+th{
+  background: rgb(236, 236, 236);
+  font-weight: bold;
+  font-size: 1.4em;
+  text-decoration: underline;
+}
+td:nth-child(1) {
+  width: 33%;
+}
+td:nth-child(2) {
+  width: 67%;
+}
+
+
+table.description td:nth-child(1) {
+  background: white;
+  }
+
+/* the second */
+table.description td:nth-child(2) {
+  background: white;
+}
+
+
+
+
+table.specification td:nth-child(1) {
+  background: rgb(236, 236, 236);
+  font-weight: bold;
+  }
+
+/* the second */
+table.specification td:nth-child(2) {
+  background: white;
+}
+
+
