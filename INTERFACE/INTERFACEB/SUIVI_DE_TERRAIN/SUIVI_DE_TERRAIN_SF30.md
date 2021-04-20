@@ -6,7 +6,7 @@
     </tr>
     <tr>
         <td><img src="../../../gitbook/images/INTERFACE/INTERFACEB/SUIVI_DE_TERRAIN/SUIVI_DE_TERRAIN_SF30.jpeg" width="1200"></td>
-        <td>L'altimètre LiDAR SF30/D dispose d'une portée de 200 mètres pour un poids de seulement 35 grammes. Conçu pour les drones de petites tailles et les véhicules autonomes, cet altimètre laser LiDAR sera idéal pour toutes les applications de type reconnaissance de terrain et évitement d'obstacles. </td>
+        <td>L'altimètre LiDAR SF30/D dispose d'une portée de 200 mètres pour un Masse de seulement 35 grammes. Conçu pour les drones de petites tailles et les véhicules autonomes, cet altimètre laser LiDAR sera idéal pour toutes les applications de type reconnaissance de terrain et évitement d'obstacles. </td>
     </tr>
 </table>
 
@@ -24,7 +24,7 @@
     </tr><tr>
         <td>Dimensions</td><td>30 x 56,5 x 50 mm</td>
     </tr><tr>
-        <td>Poids</td><td>35 g</td>
+        <td>Masse</td><td>35 g</td>
     </tr><tr>
         <td>Protection</td><td>Ouvert, pas d'IP</td>
     </tr>

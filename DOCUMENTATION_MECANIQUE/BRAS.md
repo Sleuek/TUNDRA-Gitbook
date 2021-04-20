@@ -21,7 +21,7 @@
 |  |  |  |  |
 | :--- | :--- |  :----| :---- |
 | Resistance interne | 63 mΩ | Nombre de cellules (Lipo) | 6-8S |
-| Puissance max en continu 180S | 1000 W | Poids (câble inclus) | 170 g
+| Puissance max en continu 180S | 1000 W | Masse (câble inclus) | 170 g
 | Idle Current @15 V | 1,1 A | Pic courant (180S) | 40A |
 | Dimension| 55,6x33,9mm | Hauteur| NC |
 | Diamètre de l'arbre (in/out) | 6/4 mm | Configuration | 24N28P |
@@ -32,7 +32,7 @@
 | |  |  |  |
 | :--- | :--- |  :----| :---- |
 | Taille| 64,5x29,4x14,7 mm | Pic de courant | 60A |
-| Poids (câble inclus) | 54,5g | BEC | NON
+| Masse (câble inclus) | 54,5g | BEC | NON
 | Voltage (6S) | 18-25,2 V| Fréquence de rafraîchissement  | 500 Hz | |
 | Courant continu | 40A | Temps de réponse| 120 |
 
@@ -41,7 +41,7 @@
 ### c. T-MOTOR NS22x6.6
 | |  |  |  |
 | :--- | :--- |  :----| :---- |
-| Poids (par hélice)| 30g | Diamètre | 22''(559,1mm) |
+| Masse (par hélice)| 30g | Diamètre | 22''(559,1mm) |
 | Pas  | 6,6'' (167,64mm) | Poussée/RPM recommandée | 2,3-6 kg/ 3220-5180 RPM |
 | Poussée MAX/RPM recommandés | 11 kg/6970 RPM| Matériau | Fibre de carbone + Epoxy |
 | Température de stockage, taux d'humidité | -10°C à 50°C | Température d'utilisation| -40°C - +65°C |
@@ -67,7 +67,7 @@
 |  | |  | |
 | :--- | :--- |  :----| :---- |
 | Resistance interne | 48 ± 3 mΩ| Nombre de cellules (LiPo) | 6S |
-| Puissance maximum en continu 180S  | 1048,8W | Poids (câble inclus) | 277 g |
+| Puissance maximum en continu 180S  | 1048,8W | Masse (câble inclus) | 277 g |
 | Idle Current @18V  | 1,3 A| Pic courant (180S) | 43,7 A |
 | Diamètre | 87,1 mm | Hauteur| 29,1 mm |
 | Diamètre de l'arbre | 15 mm | Configuration| 36N42P |
@@ -79,7 +79,7 @@
 |  | |  |  |
 | :--- | :--- |  :----| :---- |
 | Dimension | 71,3x32,5x15,9 mm| Pic de courant | 60 A |
-| Poids (câble inclus)  | 62,8 g | BEC | NON |
+| Masse (câble inclus)  | 62,8 g | BEC | NON |
 | Voltage (6S)  | 18-25,2V| Fréquence de rafraîchissement | 500 Hz|
 | Courant continu | 40 A | Temps de réponse| 50 s |
 
@@ -89,7 +89,7 @@
 |  | |  |  |
 | :--- | :--- |  :----| :---- |
 | Modèle | MF2815| Série | X Carbon |
-| Poids (par hélice) | 164 g | Diamètre | 28,4'' (721,8 mm) |
+| Masse (par hélice) | 164 g | Diamètre | 28,4'' (721,8 mm) |
 | Pas  | 10,1'' (257,6 mm)| Poussée/ RPM recommandés | 3,5-7 kg/ 2200-300 RPM |
 | Poussée Max/ RPM recommandés | 15 kg/5000 RPM | Température d'utilisation| -40°C - +65°C |
 

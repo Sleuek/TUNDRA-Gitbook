@@ -2,7 +2,7 @@
 
 ### Présentation configuration
 
-* Poids
+* Masse
 * Propulsion
 * Puissance
 * Autonomie

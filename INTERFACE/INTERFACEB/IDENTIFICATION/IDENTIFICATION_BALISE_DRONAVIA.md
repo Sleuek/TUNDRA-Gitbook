@@ -27,7 +27,7 @@
     </tr><tr>
         <td>Consommation</td><td>40 mA (en moyenne)</td>
     </tr><tr>
-        <td>Poids</td><td>23 g</td>
+        <td>Masse</td><td>23 g</td>
     </tr><tr>
         <td>Tension d'alimentation </td><td>4,2 à 8,4 V</td>
     </tr><tr>

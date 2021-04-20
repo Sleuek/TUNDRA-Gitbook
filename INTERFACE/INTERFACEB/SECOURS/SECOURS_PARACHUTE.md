@@ -29,9 +29,9 @@
     </tr><tr>
         <td>Durée d'ouverture totale</td><td>Jusqu'à 1 seconde</td>
     </tr><tr>
-        <td>Poids</td><td>370 grammes ( parachute seul)</td>
+        <td>Masse</td><td>370 grammes ( parachute seul)</td>
     </tr><tr>
-        <td>Poids total avec cutter, buzzer, coupe-circuit et carte principale)</td><td>450 grammes</td>
+        <td>Masse total avec cutter, buzzer, coupe-circuit et carte principale)</td><td>450 grammes</td>
     </tr><tr>
         <td>Pour les drones </td><td>de 5 à 15 Kg</td>
     </tr><tr>

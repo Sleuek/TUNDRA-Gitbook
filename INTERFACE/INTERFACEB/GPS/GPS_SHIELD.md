@@ -26,7 +26,7 @@ Le module GPS se place en position droite du drone.
     </tr><tr>
         <td>Dimensions</td><td>60 x 60 x 25 mm</td>
     </tr><tr>
-        <td>Poids</td><td>70 grammes</td>
+        <td>Masse</td><td>70 grammes</td>
     </tr><tr>
         <td>Températures de fonctionnement</td><td>-40° à +85° C</td>
     </tr><tr>

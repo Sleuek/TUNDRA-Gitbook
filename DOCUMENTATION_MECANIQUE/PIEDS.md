@@ -6,4 +6,4 @@
 | Diamètre tube pied | 10 mm |
 | Longueur tube pied | 430 mm |
 | Matériaux | Fibre de carbone |
-| Poids (1 pied) | 134/4 = 33,75g  |
+| Masse (1 pied) | 134/4 = 33,75g  |

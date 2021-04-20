@@ -35,7 +35,7 @@
     </tr><tr>
         <td>Dimensions</td><td>19,5 x 30,2 x 35 mm</td>
     </tr><tr>
-        <td>Poids</td><td>20 g (sans câbles)</td>
+        <td>Masse</td><td>20 g (sans câbles)</td>
     </tr><tr>
         <td>Températures de fonctionnement</td><td>-30 à +40°C</td>
     </tr><tr>

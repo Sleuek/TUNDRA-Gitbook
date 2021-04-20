@@ -2,7 +2,7 @@
 
 ### Caractéristiques principales
 
-* Poids
+* Masse
 * Tailles
 * Contenu du chassis
 

@@ -6,22 +6,38 @@ Vous devez toujours vous conformer à la réglementation en vigueur à l’endro
 
 
 <div class="introduction-card-container">
-<a class="introduction-card" style=" text-align: center; color:black;"   href="./INTERFACE.md">
-    <b>En savoir plus sur le TUNDRA Ready to Fly</b><br>
-</a>
-
-<a class="introduction-card" style="text-align: center; color:black;" href="./INTERFACE.md">
-    <b>En savoir plus sur le TUNDRA Ready to Develop</b><br>
-</a>
-
-<a class="introduction-card" style=" text-align: center; color:black;" href="./INTERFACE.md">
+<a class="introduction-card" style=" text-align: center; " href="./INTERFACE.md">
     <b>En savoir plus sur les interfaces disponibles sur le TUNDRA</b><br>
 </a>
 
-<a class="introduction-card" style=" text-align: center; color:black;" href="./INTERFACE.md">
+<a class="introduction-card" style=" text-align: center;" href="./INTERFACE.md">
     <b>En savoir plus sur le manuel d'utilisation du TUNDRA</b><br>
 </a>
 </div>
+
+<div class="introduction-card-container">
+  <a class="card1" href="#">
+    <h3>TUNDRA RTF</h3>
+    <p class="small">En savoir plus sur le TUNDRA Ready to Fly</p>
+    <div class="go-corner" href="#">
+      <div class="go-arrow">
+        →
+      </div>
+    </div>
+  </a>
+  
+  <a class="card2" href="#">
+    <h3>TUNDRA RTD</h3>
+    <p class="small">En savoir plus sur le TUNDRA Ready to Develop</p>
+    
+    <div class="go-corner" href="#">
+      <div class="go-arrow">
+        →
+      </div>
+    </div>
+  </a>
+  
+  </div>
 
 # Summary
 
