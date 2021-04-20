@@ -71,6 +71,7 @@
 | Idle Current @18V  | 1,3 A| Pic courant (180S) | 43,7 A |
 | Diamètre | 87,1 mm | Hauteur| 29,1 mm |
 | Diamètre de l'arbre | 15 mm | Configuration| 36N42P |
+| Masse Totale | 674g | |  |
 
 <img src="../../../gitbook/images/DOCUMENTATION_MECANIQUE/TMOTOR_U8II190.png" width="1000">
 
