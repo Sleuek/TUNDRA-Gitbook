@@ -5,7 +5,7 @@ Le document ci-dessous reprend les caractéristiques de la machine pour une meil
 Vous devez toujours vous conformer à la réglementation en vigueur à l’endroit où vous souhaitez faire évoluer cet aéronef. Il appartient au télépilote de se conformer à l’ensemble de ces réglementations (formation, limitations, etc.)
 
 
-<div class="introduction-card-container">
+<!-- <div class="introduction-card-container">
 <a class="introduction-card" style=" text-align: center; " href="./INTERFACE.md">
     <b>En savoir plus sur les interfaces disponibles sur le TUNDRA</b><br>
 </a>
@@ -13,30 +13,28 @@ Vous devez toujours vous conformer à la réglementation en vigueur à l’endro
 <a class="introduction-card" style=" text-align: center;" href="./INTERFACE.md">
     <b>En savoir plus sur le manuel d'utilisation du TUNDRA</b><br>
 </a>
-</div>
+</div> -->
 
 <div class="introduction-card-container">
-  <a class="card1" href="#">
+  <a class="card-intro card-intro-big" style="text-align: center;" href="#">
     <h3>TUNDRA RTF</h3>
     <p class="small">En savoir plus sur le TUNDRA Ready to Fly</p>
-    <div class="go-corner" href="#">
-      <div class="go-arrow">
-        →
-      </div>
-    </div>
   </a>
   
-  <a class="card2" href="#">
+<a class="card-intro card-intro-small" style="text-align: center;" href="#">
+    <h3>Les interfaces disponibles</h3>
+    <p class="small">En savoir plus sur les interfaces du TUNDRA</p>
+  </a>
+  
+  <a class="card-intro card-intro-small" href="#">
+    <h3>Les modules approuvés par Hexadrone</h3>
+    <p class="small">Découvrir quels sont les modules approuvés par HEXADRONE</p>
+  </a>
+
+  <a class="card-intro card-intro-big" href="#">
     <h3>TUNDRA RTD</h3>
     <p class="small">En savoir plus sur le TUNDRA Ready to Develop</p>
-    
-    <div class="go-corner" href="#">
-      <div class="go-arrow">
-        →
-      </div>
-    </div>
   </a>
-  
   </div>
 
 # Summary
