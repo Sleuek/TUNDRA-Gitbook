@@ -415,9 +415,18 @@ table.specification td:nth-child(2) {
 .card-intro-big{
   width: 100%;
 }
-.card-intro-small{
-  width: 45%;
-}  
+@media screen and (min-width: 600px) {
+  .card-intro-small{
+    width: 45%;
+  }  
+} 
+@media screen and (max-width: 600px) {
+  .card-intro-small{
+    width: 100%;
+  }  
+} 
+
+
 
 
 
