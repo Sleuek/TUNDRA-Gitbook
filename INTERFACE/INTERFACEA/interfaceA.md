@@ -1,5 +1,5 @@
 ## Interface A 
 
-{% hint style="danger" %}
-Page content will be removed
-{% endhint %}
+Il existe une seule interface A sur le dessus du drone.
+
+<img src="../../gitbook/images/INTERFACE/general/pastille/DESSUS-INTA.png">
