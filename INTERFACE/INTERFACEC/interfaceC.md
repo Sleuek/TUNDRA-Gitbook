@@ -1,17 +1,20 @@
 ## Interface C 
 
-
-
-
-
-<table class="interface" style=" text-align: center;">
-    <tr>
-        <th colspan="2">Vue de face</th>
-    </tr>
-    <tr>
-        <td><img src="../../gitbook/images/INTERFACE/general/FACE-INTC.png"></td>
-    </tr>
-    <tr>
-        <td>Il existe une 4 interfaces C sur les faces du drone.</td>        
+<table class="specification">
+<tr>
+        <td>Nombre</td><td>4</td>
+    </tr><tr>
+        <td>Type</td><td>Ouverture</td>
+    </tr><tr>
+        <td>Matériau</td><td>PA12</td>
     </tr>
 </table>
+
+
+<table class="interface">
+    <tr>
+        <td><img style="text-align: center;" src="../../gitbook/images/INTERFACE/general/FACE-INTC.png" ></td>
+    </tr>
+</table>
+
+Les interfaces C se situent à l'avant et à l'arrière du drone. Ces ouvertures permettent d'intégrer des prises telles que des prises Fischer ou des prises XT90
