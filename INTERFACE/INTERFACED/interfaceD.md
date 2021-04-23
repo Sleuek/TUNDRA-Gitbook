@@ -1,11 +1,13 @@
 ## Interface D
 
-#### INTERFACE D - <font color='red'>Plaque carbone 1,5mm (inclus d'origine)</font>
-
-#### INTERFACE D - <font color='red'>Avec connecteurs JST + cache en PA12</font>
-
-#### INTERFACE D - <font color='red'>Avec connecteurs JST et passage nappe HDMI + cache en PA12</font>
-
-Il existe une 1 interface D sur le dessous du drone.
-
-<img src="../../gitbook/images/INTERFACE/general/pastille/DESSOUS-INTD.png">
+<table class="interface" style=" text-align: center;">
+    <tr>
+        <th colspan="2">Vue de dessous</th>
+    </tr>
+    <tr>
+        <td><img src="../../gitbook/images/INTERFACE/general/DESSOUS-INTD.png"></td>
+    </tr>
+    <tr>
+        <td>Il existe une 1 interface D sur le dessous du drone.</td>        
+    </tr>
+</table>

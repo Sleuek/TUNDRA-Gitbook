@@ -320,6 +320,11 @@ table.specification td:nth-child(2) {
   background: white;
 }
 
+table.interface td{
+  width: 100%;
+  background: white;
+}
+
 
 
 

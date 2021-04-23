@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Les différentes faces](FACE.md)
-* [Les différentes interfaces](INTERFACE.md)
+* [Les différentes interfaces](./INTERFACE/INTERFACE.md)
     * [Interface A](./INTERFACE/INTERFACEA/interfaceA.md)
         * [COVERS](./INTERFACE/INTERFACEB/COVERS/COVERS.md)
             * [Plaque carbone pleine](./INTERFACE/INTERFACEA/COVERS/COVERS_PLEINE.md)
@@ -29,6 +29,9 @@
             * [Module de télémétrie RFD868x](./INTERFACE/INTERFACEB/TELEMETRIE/TELEMETRIE_RFD868x.md)
     * [Interface C](./INTERFACE/INTERFACEC/interfaceC.md)
     * [Interface D](./INTERFACE/INTERFACED/interfaceD.md)
+        * [Plaque carbone](./INTERFACE/INTERFACED/COVERS/PLAQUE_CARBONE_1,5mm.md)
+        * [Plaque carbone + JST + HDMI](./INTERFACE/INTERFACED/COVERS/JST_CACHE.md)
+        * [Plaque carbone + JST + CACHE](./INTERFACE/INTERFACED/COVERS/JST_HDMI.md)
     * [Interface E](./INTERFACE/INTERFACEE/interfaceE.md)
     * [Interface F](./INTERFACE/INTERFACEF/interfaceF.md)
 

@@ -9,10 +9,12 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 
 ## Représentation
-### Vue de dessus
-<img src="./gitbook/images/GLOB-dessus_exterieur.png" width="300">
-### Vue de côté
-<img src="./gitbook/images/INTB-Faces.png" width="500">
+### Vue isométrique
+{% hint style="danger" %}
+A changer c'est moche
+{% endhint %}
+
+<img src="../gitbook/images/INTERFACE/general/isoFULLINTERFACES.png">
 
 
 
