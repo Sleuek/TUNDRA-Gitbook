@@ -1,1 +1,1 @@
-#### INTERFACE F - Support en carbone (2mm) pour Carrier board standard CUBE 2.1
+#### INTERFACE F - Interfaces de fixation en PA12 pour fixation du TX2 sur la tranche
