@@ -6,7 +6,7 @@
         <th colspan="2" >Description</th>
     </tr>
     <tr>
-        <td><img src="../../gitbook/images/INTERFACE/INTERFACEE/INTF-MODPDB-ISO.png" width="1000"></td>
+        <td><img src="../../gitbook/images/INTERFACE/INTERFACEE/INTE-MODPDB-ISO.png" width="1000"></td>
         <td>PDB</td>
     </tr>
 </table>

@@ -10,9 +10,6 @@ Il existe 7 interfaces différentes permettant d'utiliser des modules comme pré
 
 ## Représentation
 ### Vue isométrique
-{% hint style="danger" %}
-A changer c'est moche
-{% endhint %}
 
 <img src="../gitbook/images/INTERFACE/general/isoFULLINTERFACES.png">
 
@@ -22,7 +19,7 @@ A changer c'est moche
     <div class="box"><img src="../gitbook/images/INTERFACE/general/DESSOUS-INTA.png" ></div>
 </a>
 
-<a >
+<a href="/INTERFACE/INTERFACEG/interfaceG.html">
     <div class="box"><img src="../gitbook/images/INTERFACE/general/DESSUS-INTG.png" alt=" "></div>
 </a>
 </div>

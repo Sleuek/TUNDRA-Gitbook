@@ -19,5 +19,4 @@
 </table>
 
 
-Les interfaces B sont des ouvertures localisées à l'avant et l'arrière du drone ainsi que sur les cotés. Certaines interfaces A sont elles-mêmes constitués d'interface B, ainsi on peut retrouver jusqu'à 8 interfaces B en fonction de l'interface A choisie.
-Les interfaces B permettent de connecter différents modules tels que des GPS, des balises d'identification, des modules de parachute, des modules Lidar, des modules de télémétrie et bien d'autres...
+Les interfaces E se situent dans la partie intérieure du châssis à l'avant et à l'arrière. On peut y intégrer des modules électroniques comme par exemple un Cube, une PDB ou un Herelink.

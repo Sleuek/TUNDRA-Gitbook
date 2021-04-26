@@ -48,6 +48,7 @@
     * [Interface F](./INTERFACE/INTERFACEF/interfaceF.md)
         * [Interfaces pour fixation du TX2 ](./INTERFACE/INTERFACEF/TX2.md)
         * [Support pour Carrier board standard CUBE](./INTERFACE/INTERFACEF/CUBE.md)
+    * [Interface F](./INTERFACE/INTERFACEG/interfaceG.md)
 
 ---
 
